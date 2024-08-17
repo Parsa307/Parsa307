@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Parsast</h1>
+<h3 align="center">Reverse Engineer</h3>
 
-<!--
-**Parsa307/Parsa307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Currently focused on **Reverse Engineering Android Games & PC Games**
+- 👨‍💻 Explore my work: [GitHub Repository](https://github.com/Parsa307)
+- 📄 Learn about my experiences:
+  - [Parsast Mods](https://t.me/ParsastMods)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with Me</h3>
+
+- [Telegram Account](https://t.me/NotParsast)
+- [Telegram Discussion Group](https://t.me/ParsastModsGroup)
